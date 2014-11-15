@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="384f0787-bc55-4671-a6ac-0721f41d76ee" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hackvirginia.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3627451" vertical-offset="1893" max-vertical-offset="5280">
-              <caret line="141" column="45" selection-start-line="141" selection-start-column="45" selection-end-line="141" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.2647059" vertical-offset="1848" max-vertical-offset="5295">
+              <caret line="134" column="32" selection-start-line="134" selection-start-column="32" selection-end-line="134" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#4;n#html#0;n#!!top" expanded="true" />
@@ -431,8 +430,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3627451" vertical-offset="1893" max-vertical-offset="5280">
-          <caret line="141" column="45" selection-start-line="141" selection-start-column="45" selection-end-line="141" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.2647059" vertical-offset="1848" max-vertical-offset="5295">
+          <caret line="134" column="32" selection-start-line="134" selection-start-column="32" selection-end-line="134" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#4;n#html#0;n#!!top" expanded="true" />
